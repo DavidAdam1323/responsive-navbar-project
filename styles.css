@@ -3,10 +3,21 @@
   margin: 0;
   box-sizing: border-box;
   font-family: sans-serif;
+  color: #faf3e3;
 }
 
 html,
 body {
   height: 100%;
   width: 100%;
+}
+
+nav {
+  padding: 10px 30px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #1a4d2e;
+  position: relative;
+  height: 70px;
 }

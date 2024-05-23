@@ -34,3 +34,8 @@ nav ul li {
 li a {
   text-decoration: none;
 }
+
+.menu-icon i {
+  font-size: 30px;
+  display: none;
+}

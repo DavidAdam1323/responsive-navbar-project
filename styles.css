@@ -35,6 +35,10 @@ li a {
   text-decoration: none;
 }
 
+.menu-icon {
+  display: none;
+}
+
 .menu-icon i {
   font-size: 30px;
   display: none;

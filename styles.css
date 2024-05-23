@@ -21,3 +21,8 @@ nav {
   position: relative;
   height: 70px;
 }
+
+nav ul {
+  display: flex;
+  gap: 30px;
+}

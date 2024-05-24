@@ -43,3 +43,15 @@ li a {
   font-size: 30px;
   display: none;
 }
+
+@media (max-width: 600px) {
+  nav ul {
+    position: absolute;
+    top: 70px;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    text-align: center;
+    background: #1a4d2e;
+  }
+}

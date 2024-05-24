@@ -53,5 +53,10 @@ li a {
     flex-direction: column;
     text-align: center;
     background: #1a4d2e;
+    gap: 0;
+  }
+
+  nav ul li {
+    padding: 20px;
   }
 }

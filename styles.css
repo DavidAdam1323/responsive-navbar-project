@@ -63,4 +63,7 @@ li a {
   .menu-icon {
     display: block;
   }
+  #menuList {
+    transition: all 0.5s;
+  }
 }

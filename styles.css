@@ -55,6 +55,7 @@ li a {
     text-align: center;
     background: #1a4d2e;
     gap: 0;
+    overflow: hidden;
   }
 
   nav ul li {
